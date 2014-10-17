@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nco:home|Door43 (nco)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nco|d43-nco repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nco/archive/master.zip|d43-nco.zip]]
+
+**Recent Changes**
+{{changes>ns = nco}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nco|Ethnologue data]]
+
